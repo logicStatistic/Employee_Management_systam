@@ -1,0 +1,67 @@
+
+.Addemployee-div{
+    width: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin: auto;
+
+}
+
+.Addemployee-div2{
+    background-color: gray;
+    color: white;
+    padding: 10px 10px;
+    margin-top: 2rem;
+
+}
+
+.Addemployee-div3{
+    padding: 10px;
+    font-size: small;
+}
+
+.Addemployee-input{
+    align-items: center;
+    width: 100%;
+    
+}
+
+input.input{
+    background-color: lightgray;
+    border-radius: 6px;
+    width: 96%;
+    padding: 2px 6px;
+    height: 3rem;
+    margin: 5px;
+}
+
+.Addemployee-button{
+    align-items: center;
+    width: 100%;
+    padding: 10px 10px;
+}
+
+button.button1{
+    background-color: #4CAF50;
+    color: #ffffff;
+    margin: 6px;
+    padding: 2px 6px;
+    width: 100px;
+    
+}
+
+button.button1:hover {
+    background-color: darkgreen;
+}
+
+button.button2{
+    background-color: red;
+    color: white;
+    padding: 2px 6px;
+    width: 100px;
+    
+}
+
+button.button2:hover {
+    background-color: darkred;
+}

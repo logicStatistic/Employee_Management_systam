@@ -1,0 +1,12 @@
+.Header-div{
+    background-color: #4CAF50;
+}
+
+.Header-div2{
+    display: flex;
+    height: 4rem;
+    align-items: center;
+    color: white;
+    padding: 10px;
+}
+
